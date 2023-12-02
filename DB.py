@@ -11,22 +11,15 @@ class Question:
         self.question = question
         self.imgQuestion = imgQuestion
         self.reponse = reponse
-        
-        # Stats question :
-        self.nbWellAnswered = 0
-        self.nbAnswered = 0
-        self.SuccesScore = 0
 
     def toString(self):
-        return "Question n°"+str(self.ID)+" : " + self.question + " (image : " + self.imgQuestion + ")" + "\nRéponse  : " + self.reponse 
+        return "*SQ*" + self.question + "*EQ**SI*" + self.imgQuestion + "*EI*" + "*SR*" + self.reponse + "*ER*"
         
 '''
 PARSER
 '''
 class Parser:
     QRPATH = os.path.join("Data", "QR.txt") #"QR.txt"
-    QRSTATPATH = os.path.join("Data", "QRSTATS.txt") #"QRSTATS.txt"
-    STATPATH = os.path.join("Data", "Stats.txt") #"Stats.txt"
     
     def __init__(self):
         # Init base de données de questions [q, r, imgQ, imgR]
