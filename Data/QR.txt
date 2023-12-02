@@ -1,0 +1,198 @@
+Quel est le titre du livre de C.J Date ?,Database Systems,NULL
+Qui est l'auteur de l'ouvrage de référence MMM ?,Fred Brooks,NULL
+De quel livre est issu le principe des design patterns ?,Le GOF,NULL
+Qui parle du principe d'intégrité conceptuelle ?,Fred Brooks,NULL
+Quel principe de conception objet permet à du vieux code d'appeler du nouveau code ?,Le polymorphisme,NULL
+Dans quel langage les tables de la BDD sont-elles décrites?,SQL,NULL
+Qu'évoque cette illustration ?,L'intégrité conceptuelle,IntegriteConceptuelle.png
+Dans quel livre trouve-t-on cette illustration ?,Le MMM,LacDeGoudron.png
+Que représente cette illustration ?,Le lac de goudron,LacDeGoudron.png
+Combien de relations voit-on sur ce diagramme ?,4,CombienDeRelations.png
+A quel anti-pattern correspond cette illustration ?,Le blob,LeBlob.png
+Citez trois anti-patterns,Le blob - Le golden hammer - le spaghetti code,NULL
+Que signigie CI/CD ?,Continuous integration - continuous deployment,NULL
+Qui est-ce ?,Martin Fowler,MartinFowler.png
+Qui est-ce ?,C.J Date,CJDate4.png
+Qui est-ce ?,Erich Gamma,ErichGamme.png
+D'après Martin Fowlers quelles sont les 4 sources de changement au cours d'un projet logiciel ?,Exigeances - Technologies - Expériences - Politique,NULL
+Quel est le titre du livre dans lequel Martin Fowler présente les 4 sources de changement d'un projet logiciel ?,UML Distilled,NULL
+Dans quel livre trouve-t-on la maxime "program to an interface not an implementation" ?,Le GOF,NULL
+A quel livre correspond l'acronyme MMM ?,Mythical Man Month,NULL
+Qui a écrit "Adding manpower to a late software project makes it later" ?,Fred Brooks,NULL
+Qu'évoque cette illustration ?,L'interface,IllustrationInterface.png
+Qu'évoque cette illustration ?,Le MMM,IllustrationMMM.png
+Dans quel livre trouve-t-on cette illustration ?,Le MMM,DualLadder.png
+Qu'évoque cette illustration ?,Un bon manager n'est pas forcément un bon technicien,DualLadder.png
+Qui est-ce ?,J.D Ullman,JDULLMAN.png
+Qui est-ce ?,Le GOF,GOF.png
+Qui est-ce ?,Fred Brooks,FredBrooks.png
+Quelles sont les 4 zones mémoire d'un « process » ?,Code - Data - Pile - Tas,NULL
+D’après Maurice J. Bach quels sont les 4 états d’un process Unix ?,User - Sleep - Ready to run - Kernel,NULL
+Que signifie le trigramme UML ?,Unified Modeling Language,NULL
+Citez deux Framework orientés Composants Logiciels ?,.NET / Symphony,NULL
+Quel opérateur SQL permet de résoudre les associations entre deux tables ?,JOIN,NULL
+Ecrire un exemple de structure C ?,struct Car {int speed;char Model;};,NULL
+Ecrire un exemple de structure Java ?,Il n'y a pas de structure en Java,NULL
+Qu’est qu’un objet anémique ?,Une classe sans méthodes,NULL
+Que signifie NoSQL ?,Not only SQL,NULL
+Qui a inventé le principe de NoSQL ?,Martin Fowler,NULL
+Quel est le nom du livre de Darrell Huff ?,How to lie with statistics,NULL
+Quel est le nom du livre de Jordan Ellenberg ?,How Not to Be Wrong,NULL
+Qui recommande de lire “how to lie with statistics” pendant vos vacances d’été ?,Bill Gates,NULL
+Qui a inventé les “Use Case” ?,Ivar Jacobson,NULL
+Dans quel livre se trouve cette figure ?,OOAD,Chat.png
+Dans quel livre se trouve cette figure ?,OOAD,Hammer.png
+Dans quel livre se trouve cette figure ?,OOAD,Mouse.png
+A quel opérateur logique correspond ce symbole ?,AND,LogicGates.png
+Qui est-ce ? ,Tanenbaum,P1.png
+Qui est-ce ? ,Scott Meyers,P2.png
+Qui est-ce ? ,Grady Booch,P3.png
+Qui est le créateur de MINIX ?,Tanenbaum,NULL
+Qui a dit : Programming in “Future” tense ?,Scott Meyers,NULL
+Quel est le nom du livre de Scott Meyers ?,Effective C++,NULL
+Quel est le nom du livre de Alistair Cockburn ?,Effective usecase,NULL
+Citez deux exemples de biais cognitifs ?,Biais du survivant / Biais de l'autorité,NULL
+À quel temps faut-il programmer ?,Au futur,NULL
+Dans quel ouvrage Martin Fowler définit-il les 3 "perspectives" d'un diagramme de classes UML ?,UML distilled,NULL
+Citez le nom de deux langages de programmation supportant le multithreading nativement ?,Java / Kotlin,NULL
+Que signifie le sigle PARC ?,Palo Alto Research Center,NULL
+Quel ordinateur a été le premier à utiliser une souris ?,Alto,NULL
+Où a été conçu l’ALTO ?,à Palo Alto,NULL
+Quel langage objet a été inventé au PARC ?,SmallTalk,NULL
+Quel est le langage utilisé pour décrire les interface Java ?,Java,NULL
+Qui a dit “Those who cannot remember the past are condemned to repeat it” ?,Georges Santayana,NULL
+Quel est le but d’une User Story ?,Se mettre à la place de l'utilisateur,NULL
+Que signifie l’acronyme US ?,User Story,NULL
+Quelle est la signification du trigramme API ?,Application Programming Interface,NULL
+Qu’est-ce que l’impédance missmatch ?,L'usage inadapté d'un outil,NULL
+Donnez un exemple de polymorphisme ?,Moteur et Voiture,NULL
+Qu’évoque cette illustration ?,NoSQL,Hammer2.png
+Dans quel livre trouve-t-on cette illustration ?,Le MOS,CPU.png
+Qu’évoque cette illustration ?,Un composant,Composant.png
+Qu’elle biais cognitif évoque cette illustration ?,Le biais du survivant,Biais.png
+Que signifie l’acronyme TOGAF ?,The Open Group Architecture Framework,NULL
+Qui a écrit : "Well designed products teach the user how touse them; on-the-fly. They do not ask the user to read a complicated manual“ ?,Donald Norman,NULL
+A quel principe SOLID correspond cette affirmation: “Classes should have a single responsibility and thus only a single reason to change” ?,The Single Responsibility Principle (SRP),NULL
+Que signifie le trigramme MMU ?,Memory Management Unit,NULL
+Qui est l'auteur de l'ouvrage de référence MOS ?,Tanenbaum,NULL
+Quelle est la signification du trigramme LSP ?,Liskov Substitution Principle,NULL
+Que signifie le trigramme MVP ?,Minimum Viable Product,NULL
+En quelle année a été écrit le Manifeste Agile ?,2001,NULL
+Quel est le 11°principe du Manifeste Agile ?,Self-organizing teams,NULL
+Quel est le titre du livre de Dustin Boswell ?,The Art of Readable Code,NULL
+Quel est le titre du livre de Yann Le Cun ?,Quand la machine apprend,NULL
+Quel est le surnom de Robert Cecil Martin et qu'a-t-il écrit ?,Uncle Bob - Agile software development,NULL
+Que signifie l’acronyme SOLID ?,Single Open Liskov Interface Dependency,NULL
+Qui a défini les principes SOLID ?,Uncle Bob,NULL
+Quel est le titre du livre de Kent Beck ?,Extreme Programming Explained,NULL
+Citez le nom d’un créateur de Junit ?,Kent Beck,NULL
+Qui est-ce ?,Uncle Bob,Bob.png
+Qui est-ce ?,Donald Norman,Normann.png
+Qui est-ce ?,Eric Raymond,Raymond.png
+Qu’évoque cette illustration ?,La règle de Norman,MBInterface.png
+Qu’évoque cette illustration ?,Les portes de Norman,DoorUX.png
+A quoi sert le polymorphisme ?,A modulariser,NULL
+Quel est le méta modèle d’une carte routière ?,Sa légende,NULL
+Quel est le méta modèle d’un plan de métro ?,Sa légende,NULL
+Que signifie l’acronyme SAFe ?,Scaled Agile Framework,NULL
+Citer le nom d’un outil de CI-CD ?,Git,NULL
+Citer le nom d’un outil de DevOps ?,Azure,NULL
+Citez un exemple de MVP ?,Skate - Vélo - Moto,NULL
+Quel est le principe de la spirale de Boehm ?,L'évaluation des risques,NULL
+Quel est le principe de l’Iterative Prototyping ?,Fail Early and Often,NULL
+Quand a eu lieu le premier hiver de l’IA ?,1975,NULL
+A quel type d’interface correspond une prise OBD ?,Interface technique,NULL
+Quelle est la bonne mesure de la qualité du logiciel lors d’une revue de code ?,WTF/minute,NULL
+Quel est le ratio du temps passé à lire un code par rapport au temps à l’écrire ?,90% / 10%,NULL
+Qui est l’inventeur du processus de développement en mode « bazar » ?,Eric Raymond,NULL
+Que signifie GEB ?,Gödel - Escher - Bach,NULL
+Quel est l’ouvrage de référence des principes SOLID ?,Design Principles and Design Patterns,NULL
+A quoi correspond la légende d’un plan ?,Son méta modèle,NULL
+Quel est le "premier" opérateur relationnel ?,La jointure,NULL
+Quel type d’information est absent du modèle relationnel ?,La sémantique,NULL
+Quel est le mode d’accès d’une bande magnétique ?,Séquentiel,NULL
+A quoi sert le padding ?,A remplir les espaces vides,NULL
+Comment accède-t-on à un enregistrement en mémoire ?,Par son adresse,NULL
+Quel type d’information est absent du modèle relationnel ?,La sémantique,NULL
+Qu’évoque cette figure ?,L'absence de sémantique,Sem.png
+Quand a été inventée l’algèbre relationnelle ?,Dans les années 1970,NULL
+Qui a inventé le modèle relationnel ?,Edgar Codd,NULL
+Qui a inventé le modèle "Entity-Relationship" ?,Peter Chen,NULL
+Qu’apporte au modèle relationnel le modèle "Entity-Relationship" ?,La sémantique,NULL
+Quel est l’âge de Keith Richard ?,80 ans,NULL
+A quoi correspond un ID ?,Un identifiant unique,NULL
+Quelle est l’opération inverse de la jointure ?,La projection,NULL
+Quelle est la conséquence de la projection d’une table ?,La duplication d'information,NULL
+Quelles sont les zones d’adressage d’un programme ?,Data - Code - Pile - Tas,NULL
+Quel mécanisme physique est remplacé par l’abstraction « table » ?,Les pointeurs,NULL
+Comment s’appelait le premier tableur ?,Visicalc,NULL
+Quel est l’opérateur SQL utilisé pour réaliser les jointures ?,SELECT,NULL
+A quoi correspond cette icône : "⋈" ?,La Jointure,NULL
+Dans quel composant sont décrites les tables de la base de données ?,Des tables,NULL
+
+Dans quel cas doit-on effectuer les opérations de jointure sur disque ?, Quand les tables ne rentrent plus en mémoire,NULL
+Quels sont les types de plan qui permettent d’optimiser les performances d’une requête ?,Plans d'execution de requêtes,NULL
+Quelle est la signification du trigramme IRQ ?,Interruption Request,NULL
+Qui est-ce ?,Douglas Comer,P4.png
+Quelle est la couche 4 du model OSI ?,Transport,NULL
+Que fait l’optimiseur de requêtes SQL ?,Il choisit l'exécution optimale,NULL
+Qu’est-ce qu’une base de données Server-less ?,Une base de données sans serveur,NULL
+Citez le nom d’une base de données Server-less,SQLite,NULL
+Que représente cette figure ?,L'algorithme de choix du bon arbre,arbre.png
+Quels sont les deux modes d’exécution d’un programme ?,User - Kernel,NULL
+Dans quel espace d’adressage est stocké le noyau ?,Le code,NULL
+Qu’est-ce qu’une IT ?,Une interruption,NULL
+Dans quel espace mémoire les tables d'une base de données sont-elles chargées ?,Le tas,NULL
+Quel est le nom d’une unité de stockage sur disque ?,Un bloc,NULL
+Quel est le système encapsulé dans une table ?,Le système de pointeurs,NULL
+Comment s'appelle la mémoire utilisée pour amortir les délais de transfert entre le disque et la mémoire ?,Un buffer,NULL
+Quel composant de la base de données évalue les arbres de requête ?,L'optimiseur de requêtes,NULL
+Quelle est la signification du trigramme WAL ?,Write Ahead Log,NULL
+Quelle est la signification du trigramme BST ?,Binary Search Tree,NULL
+Quelle est la couche 3 du model OSI ?,Réseau,NULL
+Quelle est la figure géométrique qui symbolise un arbre ?,Un triangle,NULL
+Quelle est la signification du trigramme DDL ?,Data Definition Languages,NULL
+Est-ce que les données d'un fichier sont stockées sur disque en un seul block ?,Non : les données sont fragmentées,NULL
+Pour linux quelle est la signification du trigramme SCI ?,System Call Interface,NULL
+Quels sont les 3 types d'arbre que l'on rencontre dans le traitement d'une requête SQL ?,Logique / Syntaxique / Physique,NULL
+Que représente un plan d’exécution ?,Comment le SGBD exécutera une requête,NULL
+Comment fonctionne un modèle en couches ?,La couche de dessous fournis des tâches à celle du dessus,NULL
+Combien de couches dans le modèle OSI de l’ISO ?,7,NULL
+Dans quelle couche du modèle OSI se trouve http?,5,NULL
+Quel article décrit les B-Tree ?,L'article de Douglas Comer,NULL
+Pourquoi utilise-t-on des B-Tree dans les bases de données ?,Car la recherche est de complexité logarithmique,NULL
+Quelle est la particularité des moteurs de stockage de MySQL ?,Pluggable Storage Engines,NULL
+Qui est My ?,La fille du créareur de MySQL,NULL
+Quel est le "Traveling Salesman Problem" ?,Le problème du voyageur de commerce,NULL
+Que signifie le trigramme MBR ?,Master Boot Record,NULL
+En quelle année a été inventé le disque dur ?,Dans les années 1950,NULL
+Comment est identifié un block disque ?,Par son numéro,NULL
+D'où vient le mot "file" ?,Du mot "fil",NULL
+Que représente la "free list" d'un disque dur ?,L'ensemble des blocs inutilisés,NULL
+Quels sont les deux formats de free-list ?,Les descripteurs et les bit-maps,NULL
+Où est stockée la free-list ?,Sur le disque dur,NULL
+A quoi sert le MBR,A démarrer,NULL
+Où sont stockées les informations d'un "directory" ?,Sur les bords du disque,NULL
+Quels sont les espaces d'adressage mémoire d'un programme?,Tas et pile,NULL
+Qui a inventé le disque dur?,IBM,NULL
+Quels sont les avantages d'un disque dur ?,La persistance et l'accès aléatoire,NULL
+Comment est organisé le plateau d'un disque dur ?,En pistes et secteurs,NULL
+Que signifie le trigramme "UFS" ?,Unix File System,NULL
+Comment accède-t-on à un enregistrement sur disque?,De manière aléatoire,NULL
+Quel est le mode d'accès à un disque?,Aléatoire,NULL
+A quoi sert un "inderect block pointer"?,A gérer plus de blocs,NULL
+Est-ce que les données d'un fichier sont stockées sur disque en un seul tenant?,Non,NULL
+Quel est le nom d'un descripteur de fichier UNIX?,Inode,NULL
+Que signifie le trigramme CPU ?,Central Process Unit,NULL
+Que signifie l’acronyme "I/O" ?,Input/Output,NULL
+Quelle est la fonction d’un système d’exploitation ?,Multiplexer les ressources numériques,NULL
+Qu'est-ce que le Seek Time d'un disque dur ?,Le temps pour aller de la couronne au centre,NULL
+Qu'est-ce que le Latency Time d’un disque dur ?,Le temps de rotation du disque,NULL
+Quel type de périphérique est absent de ce diagramme ?,Le disque dur,PeriphAbs.png
+Que signifie le trigramme TSP ?,Traveling Salesman Problem,NULL
+Que signifie le trigramme DML ?,Data Modeling Languages,NULL
+Pourquoi les inodes des répertoires sont-ils stockés sur la piste la plus extérieure d'un disque ?,Pour y accéder rapidement,NULL
+Quelle est la propriété d’un arbre B (B-Tree) ?,Il a une faible hauteur,NULL
+Quelles sont les trois étapes d’un algorithme d’optimisation de requêtes SQL ?,Enumérer les arbres; Calculer leur coût; Choisir le meilleur,NULL
+Les bases de données SQLite sont elles stockées sur disque ou en mémoire ?,Les deux,NULL
+Représenter l’architecture d’une base de données telle que définie par C.J Date ? (Fonctionnalité non implémentée -> Répondre "next"),next,ArchiBDDDate.png
