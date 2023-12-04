@@ -14,7 +14,7 @@ def send_question(question, reponse, image):
         files = {'image': open(img_path, 'rb')}
     data = {"question": question, "reponse": reponse}
 
-    requests.post("http:/localhost:3000/api/cours/architecture/questionEvent", data=data)
+    requests.post("http://localhost:3000/api/cours/architecture/questionEvent", data=data)
 
 def question_manager():
     while True:
@@ -25,7 +25,7 @@ def question_manager():
 
         send_question(random_question.question, random_question.reponse, random_question.imgQuestion)
 
-        time.sleep(60)
+        time.sleep(2 * 60 * 60)
 
 def display_database_content():
     for question in DB.DataBase.BASE:
