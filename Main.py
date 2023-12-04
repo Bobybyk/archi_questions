@@ -14,7 +14,7 @@ def send_question(question, reponse, image):
         files = {'image': open(img_path, 'rb')}
     data = {"question": question, "reponse": reponse}
 
-    requests.post("http://87.106.120.243:3000/api/cours/architecture/questionEvent", data=data)
+    requests.post("http:/localhost:3000/api/cours/architecture/questionEvent", data=data)
 
 def question_manager():
     while True:
