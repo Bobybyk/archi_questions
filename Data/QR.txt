@@ -1,6 +1,6 @@
 Quel est le titre du livre de C.J Date ?,Database Systems,NULL
 Qui est l'auteur de l'ouvrage de référence MMM ?,Fred Brooks,NULL
-De quel livre est issu le principe des design patterns ?,Le GOF,NULL
+De quel livre est issu le principe des design patterns ?,Le GOF : Design Patterns Elements of Reusable Codes,NULL
 Qui parle du principe d'intégrité conceptuelle ?,Fred Brooks,NULL
 Quel principe de conception objet permet à du vieux code d'appeler du nouveau code ?,Le polymorphisme,NULL
 Dans quel langage les tables de la BDD sont-elles décrites?,SQL,NULL
@@ -158,7 +158,7 @@ Quels sont les 3 types d'arbre que l'on rencontre dans le traitement d'une requ�
 Que représente un plan d’exécution ?,Comment le SGBD exécutera une requête,NULL
 Comment fonctionne un modèle en couches ?,La couche de dessous fournis des tâches à celle du dessus,NULL
 Combien de couches dans le modèle OSI de l’ISO ?,7,NULL
-Dans quelle couche du modèle OSI se trouve http?,5,NULL
+Dans quelle couche du modèle OSI se trouve http?,Application,NULL
 Quel article décrit les B-Tree ?,L'article de Douglas Comer,NULL
 Pourquoi utilise-t-on des B-Tree dans les bases de données ?,Car la recherche est de complexité logarithmique,NULL
 Quelle est la particularité des moteurs de stockage de MySQL ?,Pluggable Storage Engines,NULL
@@ -196,3 +196,22 @@ Quelle est la propriété d’un arbre B (B-Tree) ?,Il a une faible hauteur,NULL
 Quelles sont les trois étapes d’un algorithme d’optimisation de requêtes SQL ?,Enumérer les arbres; Calculer leur coût; Choisir le meilleur,NULL
 Les bases de données SQLite sont elles stockées sur disque ou en mémoire ?,Les deux,NULL
 Représenter l’architecture d’une base de données telle que définie par C.J Date ? (Fonctionnalité non implémentée -> Répondre "next"),next,ArchiBDDDate.png
+Comment réduire le nombre de tests d'une opération de jointure ?,On trie les tables en amont,NULL
+Comment s'appelle l'organisation d'une table non triée ?,le tas,NULL
+Quelle est la complexité de l'algorithme de "nested loop join" ?,O(n^2),NULL
+Quelle est la complexité de l'algorithme de "merge join" ?,O(n),NULL
+Quelle est la complexité d'une jointure par boucles imbriquées ?,O(n^2),NULL
+Quel design pattern permet le "safe downgrade " ?,La factory,NULL
+Quel est l'état d'un bon process Unix ?,en attente (ready to run),NULL
+Quel est l'état quasi permanent d'un process Console/Clavier Unix ?,en attente,NULL
+Que signifie le trigramme "CPU" ?,Central Processing Unit,NULL
+Quels sont les 3 points de vue du "process model" ?,Etats - Mémoire - CPU,NULL
+Que signifie l'acronyme I/O ?,Input/Output,NULL
+Quelle est la fonction d'un système d'exploitation ?,Mutliplexing d'entrées sorties,NULL
+Qu'est-ce qu'un canal virtuel ?,Un canal de communication entre deux processus,NULL
+Quel principe permet d'établir N connexions transport (couche 4) sur une connexion réseau (couche 3) ?,Multiplexing,NULL
+Comment s'appelle la fille d'attente des process "Ready" ?,La run queue,NULL
+Quand passe t'on du mode user au mode kernel ?,Lors d'une interruption,NULL
+Donner 3 types d'interruption matérielle ?,Clavier - Souris - Disque dur,NULL
+Qu'est-ce qu'une interruptuon logicielle ?,Une interruption générée par un processus (appel système),NULL
+Qu'est-ce qu'une interruption matérielle ?,Une interruption générée par un périphérique,NULL
