@@ -24,7 +24,6 @@ def question_manager():
         print("=" * 30)
 
         send_question(random_question.question, random_question.reponse, random_question.imgQuestion)
-
         time.sleep(60 * 60)
 
 def display_database_content():
