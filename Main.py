@@ -14,7 +14,7 @@ def question_manager():
 
         random_question = random.choice(DB.DataBase.BASE)
         
-        while (random_question.imgQuestion == "NULL"):
+        while (random_question.imgQuestion != "NULL"):
             random_question = random.choice(DB.DataBase.BASE)
 
         print("Question : " + random_question.question + "\nRéponse : " + random_question.reponse)
@@ -33,7 +33,7 @@ def display_database_content():
 
 def main():
     DB.Parser()
-    
+
     question_thread = threading.Thread(target=question_manager)
 
     question_thread.start()
