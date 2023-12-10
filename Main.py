@@ -32,7 +32,8 @@ def display_database_content():
 
 
 def main():
-
+    DB.Parser()
+    
     question_thread = threading.Thread(target=question_manager)
 
     question_thread.start()
