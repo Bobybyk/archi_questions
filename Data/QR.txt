@@ -35,7 +35,7 @@ Ecrire un exemple de structure C ?,struct Car {int speed;char Model;};,NULL
 Ecrire un exemple de structure Java ?,Il n'y a pas de structure en Java,NULL
 Qu’est qu’un objet anémique ?,Une classe sans méthodes,NULL
 Que signifie NoSQL ?,Not only SQL,NULL
-Qui a inventé le principe de NoSQL ?,Martin Fowler,NULL
+Qui a inventé le principe de NoSQL ?,Johan Oskarsson,NULL
 Quel est le nom du livre de Darrell Huff ?,How to lie with statistics,NULL
 Quel est le nom du livre de Jordan Ellenberg ?,How Not to Be Wrong,NULL
 Qui recommande de lire “how to lie with statistics” pendant vos vacances d’été ?,Bill Gates,NULL
@@ -190,7 +190,7 @@ Qu'est-ce que le Seek Time d'un disque dur ?,Le temps pour aller de la couronne 
 Qu'est-ce que le Latency Time d’un disque dur ?,Le temps de rotation du disque,NULL
 Quel type de périphérique est absent de ce diagramme ?,Le disque dur,PeriphAbs.png
 Que signifie le trigramme TSP ?,Traveling Salesman Problem,NULL
-Que signifie le trigramme DML ?,Data Modeling Languages,NULL
+Que signifie le trigramme DML ?,Data Manipulation Language,NULL
 Pourquoi les inodes des répertoires sont-ils stockés sur la piste la plus extérieure d'un disque ?,Pour y accéder rapidement,NULL
 Quelle est la propriété d’un arbre B (B-Tree) ?,Il a une faible hauteur,NULL
 Quelles sont les trois étapes d’un algorithme d’optimisation de requêtes SQL ?,Enumérer les arbres; Calculer leur coût; Choisir le meilleur,NULL
