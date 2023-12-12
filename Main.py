@@ -4,23 +4,24 @@ import threading
 import time
 import requests
 
-def send_question(question, reponse):
-    data = {"question": question, "reponse": reponse}
-    requests.post("http://localhost:3000/api/cours/architecture/questionEvent", data=data)
-
+def send_question(question, reponse, file):
+    print(file)
+    if file == "NULL":
+        response = requests.post("http://localhost:3000/api/cours/architecture/questionEvent", data = {"question": question, "reponse": reponse})
+    else:
+        with open("img/"+file, "rb") as file:
+            files = {'image': file}
+            response = requests.post("http://localhost:3000/api/cours/architecture/questionEvent", files=files, data = {"question": question, "reponse": reponse})
 
 def question_manager():
     while True:
 
         random_question = random.choice(DB.DataBase.BASE)
-        
-        while (random_question.imgQuestion != "NULL"):
-            random_question = random.choice(DB.DataBase.BASE)
 
         print("Question : " + random_question.question + "\nRéponse : " + random_question.reponse)
         print("=" * 30)
 
-        send_question(random_question.question, random_question.reponse)
+        send_question(random_question.question, random_question.reponse, random_question.imgQuestion)
 
         time.sleep(60 * 30)
 
