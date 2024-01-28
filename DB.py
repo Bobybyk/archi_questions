@@ -19,7 +19,7 @@ class Question:
 PARSER
 '''
 class Parser:
-    QRPATH = os.path.join("Data", "QR.txt") #"QR.txt"
+    QRPATH = os.path.join("sys/Data", "QR.txt") #"QR.txt"
     
     def __init__(self):
         # Init base de données de questions [q, r, imgQ, imgR]

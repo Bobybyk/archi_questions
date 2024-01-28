@@ -1,0 +1,55 @@
+Quel signifie l'acronyme  OT ?, Opérational technologie (train, avion...), NULL
+Que signifie l'acronyme IT ?, Information technologie (Exemple web), NULL
+Que représente le Business Model Canvas ?, Créer de la valeur et automatiser : la chaine de valeur, NULL
+Que signifie l'acronyme GIS, Geographique Information System, NULL
+Citez un exemple d'Entreprise Capability, Les départements d'une entreprise et leurs expertises, NULL
+Que signifie l'acronyme SAFe ?, Scaled Agile Framework, NULL
+Que signifie l'acronyme VPN ?, Virtual Private Network, NULL
+Que signifie l'acronyme AWS ?, Amazon Web Services, NULL
+En matière de contraites temporelles : quelles sont les deux classes de système d'information ?, Les systèmes temps réel et les systèmes temps différé, NULL
+Donnez deux exemples de système d'information, Un système de gestion de base de données, NULL
+Donnez deux exemples de fonctions supportées par un SI ?, La gestion des ressources humaines et la gestion de la comptabilité, NULL
+Qui a dit "Those who cannot remember the past are condemned to repeat it" ? George Santayana, NULL
+Citez 3 types d'architecte d'entreprise, L'architecte d'entreprise métier - L'architecte d'entreprise base de données - L'architecte d'entreprise système, NULL
+Dans quelle couche de la "data center stack" se trouve les frameworks web ?, Le runtime, NULL
+Dans quelle couche de la "data center stack" se trouvent les machines physiques ?, Le hardware (la couche serveur), NULL
+Quels sont les 3 modèles de service cloud ?, Infra as a service(physique) - Platform as a service (virtuel, run time) - Software as a service, NULL
+Que signifie l'acronyme IaaS ?, Infra as a service, NULL
+Quelles sont les deux types de clients Cloud Computing ?, client lourd et léger (portable fixe), NULL
+Dans le modèle IaaS quels niveaux de la "Cloud Computing Stack" sont gérés par le fournisseur de service cloud ?, Compute, server, storage, NULL
+Sur quel principe technique fonctionne le modèle IaaS ?, la virtualisation, NULL
+Quel est le modèle d'intégration qui permet la mise en oeuvre des runtimes ?, le modèle de composants, NULL
+Que signifie l'acronyme PaaS ?, Plateform as a service, NULL
+Dans le modèle PaaS quels niveaux de la "Cloud Computing Stack" sont gérés par le fournisseur de service cloud ?, Le runtime et le Middleware, NULL
+Quel est le principe d'architecture du modèle de service Cloud PaaS ?, Approche par composants, NULL
+Qu'est-ce qu'un runtime ?, Un environnement d'exécution ou de déploiement, NULL
+A quel niveau de la "Cloud Computing Stack" se trouvent les WEB frameworks ?, Runtime, NULL
+Quel est le principe minimum d'un PaaS WEB ?, Une page WEB, NULL
+Citez le nom de deux serveurs WEB ? Apache et Nginx, NULL
+Qui a créé les servlets ?, Sun Microsystems, NULL
+En quelle année ont été créé les servlets ?, Symfony, NULL
+Citez le nom d'un runtime PHP, Zend, NULL
+Citez le nom d'un runtime Python, Django, NULL
+Citez le nom d'un runtime Microsoft, .NET, NULL
+Quelle est l'architecture de référence des serveurs WEB modernes ?, L'architecture MVC, NULL
+Que signifie l'acronyme AWS ?, Amazon Web Services, NULL
+D'où le vient le terme "Cloud" ?, Du schéma de représentation des réseaux, NULL
+Quel est le modèle équivalent du Cloud Computing ?, On paye que ce qu'on utilise, NULL
+Qu'est-ce qu'une Public Utility ?, Une entreprise qui fournit un service public (eau, électricité, gaz), NULL
+Qu'est-ce que le "Vendor lock in" ?, Etre dépendant d'une solution, NULL
+Dans quelle couche du modèle OSI se trouve http ?, Couche 7, NULL
+Que signifie l'acronyme RFC ?, Request for comments, NULL
+Quelle est la principale possibilité offerte par le "Cloud Computing ?", On paye que ce qu'on utilise, NULL
+Quelles ont les couches de la computing stack du "Cloud Computing" ?, Réseau - serveur - stockage - runtime - middleware - application, NULL
+Que signifie l'acronyme NIST ?, National Institute of Standards and Technology, NULL
+Quel est l'équivalent français du NIST ?, L'ANSSI, NULL
+Dans quel langage est écrit Node.JS ?, C++, NULL
+Dans quelle couche du modèle OSI se trouve HTML ?, Couche 7, NULL
+Quel est le nom du cloud de Microsoft ?, Azure, NULL
+Que signifie l'acronyme PDP ?, Programmable Data Processor, NULL
+Que signifie l'acronyme IMP ?, Interface Message Processor, NULL
+Que signifie ARPANET ?, Advanced Research Projects Agency Network, NULL
+Que signifie l'acronyme PPP ?, Point to Point Protocol, NULL
+Que signifie l'acronyme NCP ?, Network Control Protocol, NULL
+Que signifie l'acronyme PSN ?, Packet Switching Network, NULL
+Quel est le principe de fonctionnement de l'ARPANET ?, Le principe de commutation de paquets, NULL
