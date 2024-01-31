@@ -9,7 +9,7 @@ def send_question(question, reponse, file):
     if file == "NULL":
         response = requests.post("http://localhost:3000/api/cours/architecture/questionEvent", data = {"question": question, "reponse": reponse})
     else:
-        with open("img/"+file, "rb") as file:
+        with open("sys/img/"+file, "rb") as file:
             files = {'image': file}
             response = requests.post("http://localhost:3000/api/cours/architecture/questionEvent", files=files, data = {"question": question, "reponse": reponse})
 
