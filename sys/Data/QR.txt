@@ -53,3 +53,94 @@ Que signifie l'acronyme PPP ?,Point to Point Protocol,NULL
 Que signifie l'acronyme NCP ?,Network Control Protocol,NULL
 Que signifie l'acronyme PSN ?,Packet Switching Network,NULL
 Quel est le principe de fonctionnement de l'ARPANET ?,Le principe de commutation de paquets,NULL
+Quelles sont les deux types de clients Cloud Computing ?,Client lourd et léger (portable fixe),NULL
+Dans le modèle IaaS quels niveaux de la "Cloud Computing Stack" sont gérés par le fournisseur de service cloud ?,Compute server storage,NULL
+Qu'est-ce qu'on runtime ?,Un environnement d'exécution ou de déploiement,NULL
+A quel niveau de la "Stack computing" se trouvent les WEB frameworks ?,Runtime,NULL
+Quel est le principe minimum d'un PaaS WEB ?,Une page WEB,NULL
+Citez le nom de deux serveurs WEB ?,Apache & Nginx,NULL
+Qui a créé les servlets ?,Sun Microsystems,NULL
+En quelle année ont été créé les servlets ?,1995,NULL
+Citez le nom d'un runtime PHP,Zend,NULL
+Citez le nom d'un runtime Python,Django,NULL
+Citez le nom d'un runtime Microsoft,.NET,NULL
+En quelle année a été créé le www ?,1989,NULL
+Qui a créé le www ?,Tim Berners-Lee,NULL
+En quelle année est paru le RFC définissant le protocole HTTP ?,1996,NULL
+Que signifie l'acronyme RFC ?,Request for comments,NULL
+Que signifie l'acronyme NCSA ?,National Center for Supercomputing Applications,NULL
+En quelle année a été créé Mozilla ?,1998,NULL
+Qui est l'ancêtre de Chrome et Firefox ?,Netscape,NULL
+Où trouve-t-on des racks informatiques ?,Dans les data centers,NULL
+Quel est l'OS des ordinateurs des serveurs WEB modernes ?,Linux,NULL
+Dans quelle couche du modèle OSI se trouve html ?,Couche 6 -> présentation,NULL
+Que signifie l'acronyme AWS ?,Amazon Web Services,NULL
+D'où le vient le terme "Cloud" ?,Du schéma de représentation des réseaux,NULL
+Quel est le modèle équivalent du Cloud Computing ?,On paye que ce qu'on utilise,NULL
+Dans quelle couche du modèle OSI se trouve http ?,Couche session,NULL
+Que signifie l'acronyme RFC ?,Request for comments,NULL
+Quelles ont les couches de la computing stack du "Cloud Computing" ?,IaaS / PaaS / SaaS,NULL
+Que signifie l'acronyme NIST ?,National Institute of Standards and Technology,NULL
+Quel est l'équivalent français du NIST ?,L'AFNOR,NULL
+Dans quel langage est écrit Node.JS ?,C++,NULL
+Quel est le nom du cloud de Microsoft ?,Azure,NULL
+Quel est le rôle du Edge Computing ?,Gérer les extrémités,NULL
+Quel est le modèle économique du Cloud Computing ?,On paye que ce qu'on utilise,NULL
+Quelle est la traduction de "Kubernetes" ?,Timonier (gouvernaille),NULL
+Qui est Tim Berners-Lee ?,Le créateur du www,NULL
+Sur quelle machine a fonctionné le premier serveur WEB ?,Un NeXT,NULL
+Qui est le créateur de l'entreprise NEXT ?,Steve Jobs,NULL
+De quel OS, NeXTSTEP est-il l'ancêtre ?,MacOS,NULL
+Quel est l'OS sous-jacent à NeXTSTEP OS ?,Unix,NULL
+Quelle est la traduction de "Kubernetes" ?,Gouvernail,NULL
+Quel est l'équivalent numérique de la commutation de circuit ?,le packet switching,NULL
+Quel est le type d'un hyperviseur hardware ?,Type 1 (vm) & Type 2 (machine hote),NULL
+Un container est-il un process Linux ?,Oui,NULL
+Citer le nom d'un gestionnaire de container ?,Docker,NULL
+Qu'est-ce qu'un hyperviseur "bare metal" ?,Un hyperviseur de type 1,NULL
+Citer le nom d'un hyperviseur "bare metal" ?,VMware ESX,NULL
+Citer le nom d'un hyperviseur de type 1 ?,Hyper-V,NULL
+Citer le nom d'un hyperviseur de type 2 ?,VirtualBox,NULL
+Quel est l'équivalent numérique de la commutation de circuit ?,le packet switching,NULL
+Un container est-il un process Linux ?,Oui,NULL
+Citer le nom d'un gestionnaire de container ?,Docker,NULL
+Qu'est-ce qu'un hyperviseur "bare metal" ?,Un hyperviseur de type 1,NULL
+Citer le nom d'un hyperviseur "bare metal" ?,VMware ESXi,NULL
+Citer le nom d'un hyperviseur de type 1 ?,Hyper-V,NULL
+Citer le nom d'un hyperviseur de type 2 ?,VirtualBox,NULL
+Que signifie le trigramme VRF ?,Virtual Routing and Forwarding,NULL
+Que signifie le trigramme NAT ?,Network Address Translation,NULL
+Citez deux marques de VM ?,VMware / Parallel,NULL
+A quoi sert un composant ?,Gérer les dépendances,NULL
+Quel est la fonction de Docker ?,Créer des environnements isolés,NULL
+Virtual Box est-il un hyperviseur de type 1 ?,Non,NULL
+Combien existe-t-il de type d'hyperviseur ?,2,NULL
+Quel est le type de l'hyperviseur VMware ESXi ?,Type 1,NULL
+A quelle compagnie appartient Virtual Box ?,Oracle,NULL
+Est-ce qu'un container Docker embarque un système d'exploitation ?,Non à la différence d'une VM,NULL
+Est-ce que l'image d'une VM peut embarquer un système d'exploitation ?,Oui,NULL
+Que contient un Pod "Kubernetes" ?,Un ou plusieurs containers schedulés ensemble,NULL
+Quel est le nom raccourci de "Kubernetes" ?,K8s,NULL
+Quelle est la couche OSI d'un routeur IP ?,Couche Réseau (3),NULL
+Qu'est-ce qu'un canal x25 ?,Un circuit virtuel pour la commutation de paquets,NULL
+Qu'est-ce qu'un Circuit Virtuel ?,Un protocole de commutation de paquets,NULL
+D'où vient l'origine du nom "Apache" ?,A patch,NULL
+Quelle est la couche OSI d'x25,Couche 3 (routage),NULL
+Donnez la définition d'un POD Kubernates ?,Un ou plusieurs containers schedulés ensemble,NULL
+Quel est le titre du livre de Clemens Szyperski ?,Component Software: Beyond Object-Oriented Programming,NULL
+Quel est le nom du réseau de VMware ?,NSX,NULL
+Que signifie l'acronyme SDDC ?,Software Defined Data Center,NULL
+Quel est le nom du stockage virtuel de VMware ?,vSAN,NULL
+Quel est le nom du composant de superision de data center de VMware ?,vRealize Operations,NULL
+Quel est le rôle de VMware vRealize ?,Supervision de data center,NULL
+Quel est le principe de la gestion des Circuits Virtuel de X25 ?,Le multiplexage de paquets,NULL
+Quel est le principe de base de la virtualisation ?,Le multiplexage,NULL
+Quel est le titre du livre de Clemens Szyperski ?,Component Software: Beyond Object-Oriented Programming,NULL
+Quel est le nom du réseau de VMware ?,NSX,NULL
+Que signifie l'acronyme SDDC ?,Software Defined Data Center,NULL
+Quel est le nom du stockage virtuel de VMware ?,vSAN,NULL
+Quel est le nom du composant de superision de data center de VMware ?,vRealize Operations,NULL
+Quel est le rôle de VMware vRealize ?,Supervision de data center,NULL
+Quel est le principe de la gestion des Circuits Virtuel de X25 ?,Le multiplexage de paquets,NULL
+Quel est le principe de base de la virtualisation ?,Le multiplexage,NULL
+
