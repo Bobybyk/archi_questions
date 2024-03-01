@@ -95,7 +95,7 @@ Quel est l'OS sous-jacent à NeXTSTEP OS ?,Unix,NULL
 Quelle est la traduction de "Kubernetes" ?,Gouvernail,NULL
 Quel est l'équivalent numérique de la commutation de circuit ?,le packet switching,NULL
 Quel est le type d'un hyperviseur hardware ?,Type 1 (vm) & Type 2 (machine hote),NULL
-Un container est-il un process Linux ?,Oui,NULL
+Un container est-il un process Linux ?,Non car un container est une instance d'un espace utilisateur qui est isolée,NULL
 Citer le nom d'un gestionnaire de container ?,Docker,NULL
 Qu'est-ce qu'un hyperviseur "bare metal" ?,Un hyperviseur de type 1,NULL
 Citer le nom d'un hyperviseur "bare metal" ?,VMware ESX,NULL
@@ -112,7 +112,7 @@ Que signifie le trigramme VRF ?,Virtual Routing and Forwarding,NULL
 Que signifie le trigramme NAT ?,Network Address Translation,NULL
 Citez deux marques de VM ?,VMware / Parallel,NULL
 A quoi sert un composant ?,Gérer les dépendances,NULL
-Quel est la fonction de Docker ?,Créer des environnements isolés,NULL
+Quel est la fonction de Docker ?,Faire communiquer les containers entre eux,NULL
 Virtual Box est-il un hyperviseur de type 1 ?,Non,NULL
 Combien existe-t-il de type d'hyperviseur ?,2,NULL
 Quel est le type de l'hyperviseur VMware ESXi ?,Type 1,NULL
@@ -143,4 +143,38 @@ Quel est le nom du composant de superision de data center de VMware ?,vRealize O
 Quel est le rôle de VMware vRealize ?,Supervision de data center,NULL
 Quel est le principe de la gestion des Circuits Virtuel de X25 ?,Le multiplexage de paquets,NULL
 Quel est le principe de base de la virtualisation ?,Le multiplexage,NULL
-
+Quel est le rincipe fondamentale des containers ?,les namespaces,NULL
+Quel OS est développé en Objective-C ?,macOS,NULL
+Comment s'appelle la couche 6 du modèle OSI ?,Présentation,NULL
+Que signifie l'acronyme CCITT ?,Comité Consultatif International Téléphonique et Télégraphique,NULL
+Que signifie l'acronyme ITU ?,Union Internationale des Télécommunications,NULL
+Dans quelle couche du modèle OSI se trouve le DNS ?,Application,NULL
+Pourquoi les applicatipns de la stack IP sont-elles monolithiques ?,Car elles n'ont pas une architecture commune,NULL
+Citer le nom d'un protocole de communication non connecté ?,UDP,NULL
+Quelle est la fonction de la norme X500 ?,Définir un annuaire,NULL
+Que signifie le trigramme TLD ?,Top Level Domain,NULL
+Que signifie l'acronyme BIND ?,Berkeley Internet Name Domain,NULL
+Dans quelle université l'application BIND a-t-elle été développée ?,Berkeley,NULL
+Que signifie l'acronyme IETF ?,Internet Engineering Task Force,NULL
+Que signifie le trigramme PDU ?,Protocol Data Unit,NULL
+HTTP est-il un protocole avec état (stateful) ?,Non,NULL
+Que signifie le trigramme DMZ ?,Demilitarized Zone,NULL
+Quel mécanisme les applications HTTP utilisent-elles pour gérer les connexions ?,Les cookies,NULL
+Quel est le numéro du port TCP du protocole HTTP ?,80,NULL
+Qui initialise la connexion HTTP ?,Le client,NULL
+Nommer deux requêtes HTTP,POST - GET,NULL
+Que signifie l'acronyme POTS ?,Plain Old Telephone Service,NULL
+Que signifie l'acronyme PSTN ?,Public Switched Telephone Network,NULL
+Que signifie l'acronyme FTP ?,File Transfer Protocol,NULL
+Quel est le rôle de l'application FTP ?,Transférer des fichiers,NULL
+Nommer deux serveurs WEB,Apache - Nginx,NULL
+En quelle année le serveur web Apache a-t-il été développé ?,1995,NULL
+Que signifie l'acronyle CGI ?,Common Gateway Interface,NULL
+Nommer un serveur Web dynamique,Tomcat,NULL
+Où est situé un reverse proxy,Côté serveur,NULL
+Où est situé le forward proxy,Côté client,NULL
+Les application de la pile IP sont-elles conformes aux principes SOLID ?,Non,NULL
+Quel est le nom de la zone située entre deux Firewalls ?,DMZ,NULL
+Quel est le principe du WWW ?,Partager des ressources,NULL
+Que signifie l'acronyme MGB ?,Matthieu le Gros BG,NULL
+Qui est-ce ?,Matthieu Le Franc (aka Bobybyk) le célébre informaticien,IMG_6349.jpg
