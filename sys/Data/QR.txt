@@ -90,7 +90,7 @@ Quelle est la traduction de "Kubernetes" ?,Timonier (gouvernaille),NULL
 Qui est Tim Berners-Lee ?,Le créateur du www,NULL
 Sur quelle machine a fonctionné le premier serveur WEB ?,Un NeXT,NULL
 Qui est le créateur de l'entreprise NEXT ?,Steve Jobs,NULL
-De quel OS, NeXTSTEP est-il l'ancêtre ?,MacOS,NULL
+De quel OS NeXTSTEP est-il l'ancêtre ?,MacOS,NULL
 Quel est l'OS sous-jacent à NeXTSTEP OS ?,Unix,NULL
 Quelle est la traduction de "Kubernetes" ?,Gouvernail,NULL
 Quel est l'équivalent numérique de la commutation de circuit ?,le packet switching,NULL
