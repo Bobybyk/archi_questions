@@ -178,3 +178,6 @@ Quel est le nom de la zone située entre deux Firewalls ?,DMZ,NULL
 Quel est le principe du WWW ?,Partager des ressources,NULL
 Que signifie l'acronyme MGB ?,Matthieu le Gros BG,NULL
 Qui est-ce ?,Matthieu Le Franc (aka Bobybyk) le célébre informaticien,IMG_6349.jpg
+Qui est-ce ?,Dark Matthieu - attention Dark Matthieu peut apparaitre durant ton sommeil et te faire faire des cauchemars (phrase générée par Github copilot),dark.jpg
+Qui est-ce ?,Bébé Rayane - le plus mignon des bébés (phrase générée par Github copilot),kaabech.jpg
+Qui est-ce ?, Alban moustache - la moustache la plus célèbre du DNS (phrase générée par Github copilot),moustache.jpg
