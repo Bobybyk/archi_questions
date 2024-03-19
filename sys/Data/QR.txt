@@ -181,3 +181,41 @@ Qui est-ce ?,Matthieu Le Franc (aka Bobybyk) le célébre informaticien,IMG_6349
 Qui est-ce ?,Dark Matthieu - attention Dark Matthieu peut apparaitre durant ton sommeil et te faire faire des cauchemars (phrase générée par Github copilot),dark.jpg
 Qui est-ce ?,Bébé Rayane - le plus mignon des bébés (phrase générée par Github copilot),kaabech.jpg
 Qui est-ce ?, Alban moustache - la moustache la plus célèbre du DNS (phrase générée par Github copilot),moustache.jpg
+Qui a inventé le design pattern MVC ?,Trygve Reenskaug,NULL
+A quoi correspond le Hollywood Pattern ?,Inversion de contrôle ou callback,NULL
+L'injection de dépendance est-elle un design pattern du GoF ?,Non c'est un mécanisme,NULL
+A quel mécanisme logiciel correspond le "pattern hollywood" ?,Inversion de contrôle,NULL
+Que signifie le sigle PARC ?,Palo Alto Research Center,NULL
+Quel langage objet a été inventé au PARC ?,Smalltalk,NULL
+Quels types de composants sont hébergés par un "web server" ?,Des ressources statiques,NULL
+Dans un Framework, qui gère la main loop ?,Le framework,NULL
+Quel est l'ancêtre des annotations ?,XDoclet,NULL
+Que signifie le trigramme IOC ?,Inversion of Control,NULL
+Donnez un exemple de mécanisme logiciel,Le class loader, les singleton...,NULL
+Citez un Standard du W3C,HTML,NULL
+Pourquoi utilise-t-on HTTP là où TCP suffit ?,à cause des firewall,NULL
+Quelle est la répartition des rôles entre APache et Tomcat ?,Apache sert les ressources statiques et Tomcat les ressources dynamiques,NULL
+Que signifie le trigramme JSF ?,Java Server Faces,NULL
+Quel est l'ancêtre de JSF ?,Struts,NULL
+Les spécifications JEE désignent-elles une mise en oeuvre ?,Non,NULL
+A quoi sert un framework logiciel ?,à mettre en oeuvre le design pattern,NULL
+Dans quel cas utilise t-on l'inversion de contrôle ?,Pour injecter le contexte,NULL
+D'après Martin Fowler quelle est la différence entre un framework et une bibliothèque ?,Un framework appelle le code de l'application, une bibliothèque est appelée par le code de l'application,NULL
+Qu'est-ce qu'un WAR ?,Web Archive, un serveur web packagé,NULL
+Quelle version J2E devient Java EE ?,5,NULL
+Quelle version de Java EE devient Jakarta EE ?,8,NULL
+Qu'est-ce qu'un composant déployé ?,Un composant logiciel installé sur un serveur,NULL
+Donnez un exemple de "Deployment Descriptor",web.xml,NULL
+Qu'est-ce qu'un composant "packaged" ?,Un composant logiciel packagé,NULL
+En quelle année est apparu le web-app.xsd ?,2003,NULL
+Dans quelle version des servlets le fichier WEB.xml est défini par un schéma XML ?,2.4,NULL
+Quel fichier de déploiement contient la balise <web-app> ?,web.xml,NULL
+Dans quel répertoire se trouve le fichier web.xml ?,WEB-INF,NULL
+Dans quel répertoire se trouve se trouve le fichier *.jsp ?,racine,NULL
+Quelles sont les entrées d'un configurateur de composants logiciel ?,Les paramètres de configuration,NULL
+Sur quel ordinateur a été développé Unix ?,Un PDP-11,NULL
+Quelle est l'interface qui permet de récupérer la configuration d'un ,3.0,NULL
+A quelle annotation correspond le CDI ?,@Inject,NULL
+Que signifie le trigramme CDI ?,Context and Dependency Injection,NULL
+A quoi correspond l'anotation @Inject ?,à l'injection de dépendance,NULL
+Quelle est la fonction de l'injection de contexte et de dépendance ?,gérer les dépendances logiciel,NULL
