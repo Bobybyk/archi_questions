@@ -219,3 +219,23 @@ A quelle annotation correspond le CDI ?,@Inject,NULL
 Que signifie le trigramme CDI ?,Context and Dependency Injection,NULL
 A quoi correspond l'anotation @Inject ?,à l'injection de dépendance,NULL
 Quelle est la fonction de l'injection de contexte et de dépendance ?,gérer les dépendances logiciel,NULL
+Représenter l'automate du cycle de vie d'un servlet,faire automate à 2 états avec double transition,NULL
+Quels sont les états d'un servlet ?,Chargé,NULL
+Pourquoi les servlets ont-ils un constructeur sans paramètres ?,parce qu'ils sont lancés par le framework,NULL
+Qui est à l'initiative des Servlets ?,Gosling,NULL
+A quel mécanisme correspond le pattern "hollywood" ?,callback,NULL
+Qui est à l'origine de tomcat ?,Sun,NULL
+Quels types de composants sont hébergés par un "web server" ?,des web applications,NULL
+Que signifie IOC ?,Inversion of Control,NULL
+Les spécifications JEE désignent-elles une mise en oeuvre ?,non,NULL
+Quel est le nom de la librairie Unix qui gère l'API de la stack de communication TCP/IP ?,Les sockets,NULL
+Citer le numéro de la dernière version des Jakarta Servlet,5,NULL
+Selon Martin Fowler quelles sont les 3 perspectives d'un diagramme de classes UML ?,statique, dynamique, implémentation,NULL
+Nommer la distribution OpenJDK d'AWS,Corretto,NULL
+Quel est le nom de la méthode de la classe HttpServlet qui fournit le contexte courant du Servlet ?,getServletContext(),NULL
+Comment le Context du Servlet est-il fourni à partir de la version 3.x des Servlets ?,par injection de dépendance,NULL
+Quel est le nom des composants clients Java téléchargeables ?,Applets,NULL
+Quel est le nom des composants Java qui gèrent les bases de données ?,Les EJP,NULL
+Qui doit obligatoirement mettre en oeuvre l'interface Java "Serializable" ?,les objets qui doivent être mis sur disque,NULL
+Dans quel ouvrage Martin Fowler définit-il les 3 "perspectives" d'un diagramme de classes UML ?,UML Distilled,NULL
+Quel est le type des attributs de "context" d'un servlet ?,Pas de type,NULL
