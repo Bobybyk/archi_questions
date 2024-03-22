@@ -201,7 +201,7 @@ Les spécifications JEE désignent-elles une mise en oeuvre ?,Non,NULL
 A quoi sert un framework logiciel ?,à mettre en oeuvre le design pattern,NULL
 Dans quel cas utilise t-on l'inversion de contrôle ?,Pour injecter le contexte,NULL
 D'après Martin Fowler quelle est la différence entre un framework et une bibliothèque ?,Un framework appelle le code de l'application, une bibliothèque est appelée par le code de l'application,NULL
-Qu'est-ce qu'un WAR ?,Web Archive, un serveur web packagé,NULL
+Qu'est-ce qu'un WAR ?,Web Archive (un serveur web packagé),NULL
 Quelle version J2E devient Java EE ?,5,NULL
 Quelle version de Java EE devient Jakarta EE ?,8,NULL
 Qu'est-ce qu'un composant déployé ?,Un composant logiciel installé sur un serveur,NULL
