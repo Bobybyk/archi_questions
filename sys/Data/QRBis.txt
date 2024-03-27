@@ -1,0 +1,272 @@
+Quel signifie l'acronyme  OT ?,Opérational technologie (train avion...),NULL
+Que signifie l'acronyme IT ?,Information technologie (Exemple web),NULL
+Que représente le Business Model Canvas ?,Créer de la valeur et automatiser : la chaine de valeur,NULL
+Que signifie l'acronyme GIS,Geographique Information System,NULL
+Citez un exemple d'Entreprise Capability,Les départements d'une entreprise et leurs expertises,NULL
+Que signifie l'acronyme SAFe ?,Scaled Agile Framework,NULL
+Que signifie l'acronyme VPN ?,Virtual Private Network,NULL
+Que signifie l'acronyme AWS ?,Amazon Web Services,NULL
+En matière de contraites temporelles : quelles sont les deux classes de système d'information ?,Les systèmes temps réel et les systèmes temps différé,NULL
+Donnez deux exemples de système d'information,Un système de gestion de base de données,NULL
+Donnez deux exemples de fonctions supportées par un SI ?,La gestion des ressources humaines et la gestion de la comptabilité,NULL
+Qui a dit "Those who cannot remember the past are condemned to repeat it" ?,George Santayana,NULL
+Citez 3 types d'architecte d'entreprise,L'architecte d'entreprise métier - L'architecte d'entreprise base de données - L'architecte d'entreprise système,NULL
+Dans quelle couche de la "data center stack" se trouve les frameworks web ?,Le runtime,NULL
+Dans quelle couche de la "data center stack" se trouvent les machines physiques ?,Le hardware (la couche serveur),NULL
+Quels sont les 3 modèles de service cloud ?,Infra as a service(physique) - Platform as a service (virtuel - run time) - Software as a service,NULL
+Que signifie l'acronyme IaaS ?,Infra as a service,NULL
+Quelles sont les deux types de clients Cloud Computing ?,client lourd et léger (portable fixe),NULL
+Dans le modèle IaaS quels niveaux de la "Cloud Computing Stack" sont gérés par le fournisseur de service cloud ?,Compute - server - storage,NULL
+Sur quel principe technique fonctionne le modèle IaaS ?,la virtualisation,NULL
+Quel est le modèle d'intégration qui permet la mise en oeuvre des runtimes ?,le modèle de composants,NULL
+Que signifie l'acronyme PaaS ?,Plateform as a service,NULL
+Dans le modèle PaaS quels niveaux de la "Cloud Computing Stack" sont gérés par le fournisseur de service cloud ?,Le runtime et le Middleware,NULL
+Quel est le principe d'architecture du modèle de service Cloud PaaS ?,Approche par composants,NULL
+Qu'est-ce qu'un runtime ?,Un environnement d'exécution ou de déploiement,NULL
+A quel niveau de la "Cloud Computing Stack" se trouvent les WEB frameworks ?,Runtime,NULL
+Quel est le principe minimum d'un PaaS WEB ?,Une page WEB,NULL
+Citez le nom de deux serveurs WEB ?,Apache et Nginx,NULL
+Qui a créé les servlets ?,Sun Microsystems,NULL
+En quelle année ont été créé les servlets ?,Symfony,NULL
+Citez le nom d'un runtime PHP,Zend,NULL
+Citez le nom d'un runtime Python,Django,NULL
+Citez le nom d'un runtime Microsoft,.NET,NULL
+Quelle est l'architecture de référence des serveurs WEB modernes ?,L'architecture MVC,NULL
+Que signifie l'acronyme AWS ?,Amazon Web Services,NULL
+D'où le vient le terme "Cloud" ?,Du schéma de représentation des réseaux,NULL
+Quel est le modèle équivalent du Cloud Computing ?,On paye que ce qu'on utilise,NULL
+Qu'est-ce qu'une Public Utility ?,Une entreprise qui fournit un service public (eau - électricité - gaz),NULL
+Qu'est-ce que le "Vendor lock in" ?,Etre dépendant d'une solution,NULL
+Dans quelle couche du modèle OSI se trouve http ?,Couche 7,NULL
+Que signifie l'acronyme RFC ?,Request for comments,NULL
+Quelle est la principale possibilité offerte par le "Cloud Computing ?",On paye que ce qu'on utilise,NULL
+Quelles ont les couches de la computing stack du "Cloud Computing" ?,Réseau - serveur - stockage - runtime - middleware - application,NULL
+Que signifie l'acronyme NIST ?,National Institute of Standards and Technology,NULL
+Quel est l'équivalent français du NIST ?,L'ANSSI,NULL
+Dans quel langage est écrit Node.JS ?,C++,NULL
+Dans quelle couche du modèle OSI se trouve HTML ?,Couche 7,NULL
+Quel est le nom du cloud de Microsoft ?,Azure,NULL
+Que signifie l'acronyme PDP ?,Programmable Data Processor,NULL
+Que signifie l'acronyme IMP ?,Interface Message Processor,NULL
+Que signifie ARPANET ?,Advanced Research Projects Agency Network,NULL
+Que signifie l'acronyme PPP ?,Point to Point Protocol,NULL
+Que signifie l'acronyme NCP ?,Network Control Protocol,NULL
+Que signifie l'acronyme PSN ?,Packet Switching Network,NULL
+Quel est le principe de fonctionnement de l'ARPANET ?,Le principe de commutation de paquets,NULL
+Quelles sont les deux types de clients Cloud Computing ?,Client lourd et léger (portable fixe),NULL
+Dans le modèle IaaS quels niveaux de la "Cloud Computing Stack" sont gérés par le fournisseur de service cloud ?,Compute server storage,NULL
+Qu'est-ce qu'on runtime ?,Un environnement d'exécution ou de déploiement,NULL
+A quel niveau de la "Stack computing" se trouvent les WEB frameworks ?,Runtime,NULL
+Quel est le principe minimum d'un PaaS WEB ?,Une page WEB,NULL
+Citez le nom de deux serveurs WEB ?,Apache & Nginx,NULL
+Qui a créé les servlets ?,Sun Microsystems,NULL
+En quelle année ont été créé les servlets ?,1995,NULL
+Citez le nom d'un runtime PHP,Zend,NULL
+Citez le nom d'un runtime Python,Django,NULL
+Citez le nom d'un runtime Microsoft,.NET,NULL
+En quelle année a été créé le www ?,1989,NULL
+Qui a créé le www ?,Tim Berners-Lee,NULL
+En quelle année est paru le RFC définissant le protocole HTTP ?,1996,NULL
+Que signifie l'acronyme RFC ?,Request for comments,NULL
+Que signifie l'acronyme NCSA ?,National Center for Supercomputing Applications,NULL
+En quelle année a été créé Mozilla ?,1998,NULL
+Qui est l'ancêtre de Chrome et Firefox ?,Netscape,NULL
+Où trouve-t-on des racks informatiques ?,Dans les data centers,NULL
+Quel est l'OS des ordinateurs des serveurs WEB modernes ?,Linux,NULL
+Dans quelle couche du modèle OSI se trouve html ?,Couche 6 -> présentation,NULL
+Que signifie l'acronyme AWS ?,Amazon Web Services,NULL
+D'où le vient le terme "Cloud" ?,Du schéma de représentation des réseaux,NULL
+Quel est le modèle équivalent du Cloud Computing ?,On paye que ce qu'on utilise,NULL
+Dans quelle couche du modèle OSI se trouve http ?,Couche session,NULL
+Que signifie l'acronyme RFC ?,Request for comments,NULL
+Quelles ont les couches de la computing stack du "Cloud Computing" ?,IaaS / PaaS / SaaS,NULL
+Que signifie l'acronyme NIST ?,National Institute of Standards and Technology,NULL
+Quel est l'équivalent français du NIST ?,L'AFNOR,NULL
+Dans quel langage est écrit Node.JS ?,C++,NULL
+Quel est le nom du cloud de Microsoft ?,Azure,NULL
+Quel est le rôle du Edge Computing ?,Gérer les extrémités,NULL
+Quel est le modèle économique du Cloud Computing ?,On paye que ce qu'on utilise,NULL
+Quelle est la traduction de "Kubernetes" ?,Timonier (gouvernaille),NULL
+Qui est Tim Berners-Lee ?,Le créateur du www,NULL
+Sur quelle machine a fonctionné le premier serveur WEB ?,Un NeXT,NULL
+Qui est le créateur de l'entreprise NEXT ?,Steve Jobs,NULL
+De quel OS NeXTSTEP est-il l'ancêtre ?,MacOS,NULL
+Quel est l'OS sous-jacent à NeXTSTEP OS ?,Unix,NULL
+Quelle est la traduction de "Kubernetes" ?,Gouvernail,NULL
+Quel est l'équivalent numérique de la commutation de circuit ?,le packet switching,NULL
+Quel est le type d'un hyperviseur hardware ?,Type 1 (vm) & Type 2 (machine hote),NULL
+Un container est-il un process Linux ?,Non car un container est une instance d'un espace utilisateur qui est isolée,NULL
+Citer le nom d'un gestionnaire de container ?,Docker,NULL
+Qu'est-ce qu'un hyperviseur "bare metal" ?,Un hyperviseur de type 1,NULL
+Citer le nom d'un hyperviseur "bare metal" ?,VMware ESX,NULL
+Citer le nom d'un hyperviseur de type 1 ?,Hyper-V,NULL
+Citer le nom d'un hyperviseur de type 2 ?,VirtualBox,NULL
+Quel est l'équivalent numérique de la commutation de circuit ?,le packet switching,NULL
+Un container est-il un process Linux ?,Oui,NULL
+Citer le nom d'un gestionnaire de container ?,Docker,NULL
+Qu'est-ce qu'un hyperviseur "bare metal" ?,Un hyperviseur de type 1,NULL
+Citer le nom d'un hyperviseur "bare metal" ?,VMware ESXi,NULL
+Citer le nom d'un hyperviseur de type 1 ?,Hyper-V,NULL
+Citer le nom d'un hyperviseur de type 2 ?,VirtualBox,NULL
+Que signifie le trigramme VRF ?,Virtual Routing and Forwarding,NULL
+Que signifie le trigramme NAT ?,Network Address Translation,NULL
+Citez deux marques de VM ?,VMware / Parallel,NULL
+A quoi sert un composant ?,Gérer les dépendances,NULL
+Quel est la fonction de Docker ?,Faire communiquer les containers entre eux,NULL
+Virtual Box est-il un hyperviseur de type 1 ?,Non,NULL
+Combien existe-t-il de type d'hyperviseur ?,2,NULL
+Quel est le type de l'hyperviseur VMware ESXi ?,Type 1,NULL
+A quelle compagnie appartient Virtual Box ?,Oracle,NULL
+Est-ce qu'un container Docker embarque un système d'exploitation ?,Non à la différence d'une VM,NULL
+Est-ce que l'image d'une VM peut embarquer un système d'exploitation ?,Oui,NULL
+Que contient un Pod "Kubernetes" ?,Un ou plusieurs containers schedulés ensemble,NULL
+Quel est le nom raccourci de "Kubernetes" ?,K8s,NULL
+Quelle est la couche OSI d'un routeur IP ?,Couche Réseau (3),NULL
+Qu'est-ce qu'un canal x25 ?,Un circuit virtuel pour la commutation de paquets,NULL
+Qu'est-ce qu'un Circuit Virtuel ?,Un protocole de commutation de paquets,NULL
+D'où vient l'origine du nom "Apache" ?,A patch,NULL
+Quelle est la couche OSI d'x25,Couche 3 (routage),NULL
+Donnez la définition d'un POD Kubernates ?,Un ou plusieurs containers schedulés ensemble,NULL
+Quel est le titre du livre de Clemens Szyperski ?,Component Software: Beyond Object-Oriented Programming,NULL
+Quel est le nom du réseau de VMware ?,NSX,NULL
+Que signifie l'acronyme SDDC ?,Software Defined Data Center,NULL
+Quel est le nom du stockage virtuel de VMware ?,vSAN,NULL
+Quel est le nom du composant de superision de data center de VMware ?,vRealize Operations,NULL
+Quel est le rôle de VMware vRealize ?,Supervision de data center,NULL
+Quel est le principe de la gestion des Circuits Virtuel de X25 ?,Le multiplexage de paquets,NULL
+Quel est le principe de base de la virtualisation ?,Le multiplexage,NULL
+Quel est le titre du livre de Clemens Szyperski ?,Component Software: Beyond Object-Oriented Programming,NULL
+Quel est le nom du réseau de VMware ?,NSX,NULL
+Que signifie l'acronyme SDDC ?,Software Defined Data Center,NULL
+Quel est le nom du stockage virtuel de VMware ?,vSAN,NULL
+Quel est le nom du composant de superision de data center de VMware ?,vRealize Operations,NULL
+Quel est le rôle de VMware vRealize ?,Supervision de data center,NULL
+Quel est le principe de la gestion des Circuits Virtuel de X25 ?,Le multiplexage de paquets,NULL
+Quel est le principe de base de la virtualisation ?,Le multiplexage,NULL
+Quel est le rincipe fondamentale des containers ?,les namespaces,NULL
+Quel OS est développé en Objective-C ?,macOS,NULL
+Comment s'appelle la couche 6 du modèle OSI ?,Présentation,NULL
+Que signifie l'acronyme CCITT ?,Comité Consultatif International Téléphonique et Télégraphique,NULL
+Que signifie l'acronyme ITU ?,Union Internationale des Télécommunications,NULL
+Dans quelle couche du modèle OSI se trouve le DNS ?,Application,NULL
+Pourquoi les applicatipns de la stack IP sont-elles monolithiques ?,Car elles n'ont pas une architecture commune,NULL
+Citer le nom d'un protocole de communication non connecté ?,UDP,NULL
+Quelle est la fonction de la norme X500 ?,Définir un annuaire,NULL
+Que signifie le trigramme TLD ?,Top Level Domain,NULL
+Que signifie l'acronyme BIND ?,Berkeley Internet Name Domain,NULL
+Dans quelle université l'application BIND a-t-elle été développée ?,Berkeley,NULL
+Que signifie l'acronyme IETF ?,Internet Engineering Task Force,NULL
+Que signifie le trigramme PDU ?,Protocol Data Unit,NULL
+HTTP est-il un protocole avec état (stateful) ?,Non,NULL
+Que signifie le trigramme DMZ ?,Demilitarized Zone,NULL
+Quel mécanisme les applications HTTP utilisent-elles pour gérer les connexions ?,Les cookies,NULL
+Quel est le numéro du port TCP du protocole HTTP ?,80,NULL
+Qui initialise la connexion HTTP ?,Le client,NULL
+Nommer deux requêtes HTTP,POST - GET,NULL
+Que signifie l'acronyme POTS ?,Plain Old Telephone Service,NULL
+Que signifie l'acronyme PSTN ?,Public Switched Telephone Network,NULL
+Que signifie l'acronyme FTP ?,File Transfer Protocol,NULL
+Quel est le rôle de l'application FTP ?,Transférer des fichiers,NULL
+Nommer deux serveurs WEB,Apache - Nginx,NULL
+En quelle année le serveur web Apache a-t-il été développé ?,1995,NULL
+Que signifie l'acronyle CGI ?,Common Gateway Interface,NULL
+Nommer un serveur Web dynamique,Tomcat,NULL
+Où est situé un reverse proxy,Côté serveur,NULL
+Où est situé le forward proxy,Côté client,NULL
+Les application de la pile IP sont-elles conformes aux principes SOLID ?,Non,NULL
+Quel est le nom de la zone située entre deux Firewalls ?,DMZ,NULL
+Quel est le principe du WWW ?,Partager des ressources,NULL
+Que signifie l'acronyme MGB ?,Matthieu le Gros BG,NULL
+Qui est-ce ?,Matthieu Le Franc (aka Bobybyk) le célébre informaticien,IMG_6349.jpg
+Qui est-ce ?,Dark Matthieu - attention Dark Matthieu peut apparaitre durant ton sommeil et te faire faire des cauchemars (phrase générée par Github copilot),dark.jpg
+Qui est-ce ?,Bébé Rayane - le plus mignon des bébés (phrase générée par Github copilot),kaabech.jpg
+Qui est-ce ?, Alban moustache - la moustache la plus célèbre du DNS (phrase générée par Github copilot),moustache.jpg
+Qui a inventé le design pattern MVC ?,Trygve Reenskaug,NULL
+A quoi correspond le Hollywood Pattern ?,Inversion de contrôle ou callback,NULL
+L'injection de dépendance est-elle un design pattern du GoF ?,Non c'est un mécanisme,NULL
+A quel mécanisme logiciel correspond le "pattern hollywood" ?,Inversion de contrôle,NULL
+Que signifie le sigle PARC ?,Palo Alto Research Center,NULL
+Quel langage objet a été inventé au PARC ?,Smalltalk,NULL
+Quels types de composants sont hébergés par un "web server" ?,Des ressources statiques,NULL
+Dans un Framework qui gère la main loop ?,Le framework,NULL
+Quel est l'ancêtre des annotations ?,XDoclet,NULL
+Que signifie le trigramme IOC ?,Inversion of Control,NULL
+Donnez un exemple de mécanisme logiciel,Le class loader, les singleton...,NULL
+Citez un Standard du W3C,HTML,NULL
+Pourquoi utilise-t-on HTTP là où TCP suffit ?,à cause des firewall,NULL
+Quelle est la répartition des rôles entre APache et Tomcat ?,Apache sert les ressources statiques et Tomcat les ressources dynamiques,NULL
+Que signifie le trigramme JSF ?,Java Server Faces,NULL
+Quel est l'ancêtre de JSF ?,Struts,NULL
+Les spécifications JEE désignent-elles une mise en oeuvre ?,Non,NULL
+A quoi sert un framework logiciel ?,à mettre en oeuvre le design pattern,NULL
+Dans quel cas utilise t-on l'inversion de contrôle ?,Pour injecter le contexte,NULL
+D'après Martin Fowler quelle est la différence entre un framework et une bibliothèque ?,Un framework appelle le code de l'application (une bibliothèque est appelée par le code de l'application),NULL
+Qu'est-ce qu'un WAR ?,  Web Archive (un serveur web packagé),NULL
+Quelle version J2E devient Java EE ?,5,NULL
+Quelle version de Java EE devient Jakarta EE ?,8,NULL
+Qu'est-ce qu'un composant déployé ?,Un composant logiciel installé sur un serveur,NULL
+Donnez un exemple de "Deployment Descriptor",web.xml,NULL
+Qu'est-ce qu'un composant "packaged" ?,Un composant logiciel packagé,NULL
+En quelle année est apparu le web-app.xsd ?,2003,NULL
+Dans quelle version des servlets le fichier WEB.xml est défini par un schéma XML ?,2.4,NULL
+Quel fichier de déploiement contient la balise <web-app> ?,web.xml,NULL
+Dans quel répertoire se trouve le fichier web.xml ?,WEB-INF,NULL
+Dans quel répertoire se trouve se trouve le fichier *.jsp ?,racine,NULL
+Quelles sont les entrées d'un configurateur de composants logiciel ?,Les paramètres de configuration,NULL
+Sur quel ordinateur a été développé Unix ?,Un PDP-11,NULL
+Quelle est l'interface qui permet de récupérer la configuration d'un ,3.0,NULL
+A quelle annotation correspond le CDI ?,@Inject,NULL
+Que signifie le trigramme CDI ?,Context and Dependency Injection,NULL
+A quoi correspond l'anotation @Inject ?,à l'injection de dépendance,NULL
+Quelle est la fonction de l'injection de contexte et de dépendance ?,gérer les dépendances logiciel,NULL
+Représenter l'automate du cycle de vie d'un servlet,faire automate à 2 états avec double transition,NULL
+Quels sont les états d'un servlet ?,Chargé,NULL
+Pourquoi les servlets ont-ils un constructeur sans paramètres ?,parce qu'ils sont lancés par le framework,NULL
+Qui est à l'initiative des Servlets ?,Gosling,NULL
+A quel mécanisme correspond le pattern "hollywood" ?,callback,NULL
+Qui est à l'origine de tomcat ?,Sun,NULL
+Quels types de composants sont hébergés par un "web server" ?,des web applications,NULL
+Que signifie IOC ?,Inversion of Control,NULL
+Les spécifications JEE désignent-elles une mise en oeuvre ?,non,NULL
+Quel est le nom de la librairie Unix qui gère l'API de la stack de communication TCP/IP ?,Les sockets,NULL
+Citer le numéro de la dernière version des Jakarta Servlet,5,NULL
+Selon Martin Fowler quelles sont les 3 perspectives d'un diagramme de classes UML ?,statique, dynamique, implémentation,NULL
+Nommer la distribution OpenJDK d'AWS,Corretto,NULL
+Quel est le nom de la méthode de la classe HttpServlet qui fournit le contexte courant du Servlet ?,getServletContext(),NULL
+Comment le Context du Servlet est-il fourni à partir de la version 3.x des Servlets ?,par injection de dépendance,NULL
+Quel est le nom des composants clients Java téléchargeables ?,Applets,NULL
+Quel est le nom des composants Java qui gèrent les bases de données ?,Les EJP,NULL
+Qui doit obligatoirement mettre en oeuvre l'interface Java "Serializable" ?,les objets qui doivent être mis sur disque,NULL
+Dans quel ouvrage Martin Fowler définit-il les 3 "perspectives" d'un diagramme de classes UML ?,UML Distilled,NULL
+Quel est le type des attributs de "context" d'un servlet ?,Pas de type,NULL
+Quel est le nom de la méthode de James Rumbaugh ?,OMT,NULL
+Que signifie le trigramme OMT ?,Object Modeling Technique,NULL
+Quelle est la notation graphique de modélisation utilisée dans le GOF ?,OMT,NULL
+En quelle année les Filter ont été intégrés au JEE ?,2001,NULL
+Quel sont les design pattern du GoF correspondant aux intercepteurs ?,Chain of Responsibility,NULL
+Que signifie le trigramme BSD ?,Berkeley Software Distribution,NULL
+Que signifie le trigramme AOP ?,Aspect-Oriented Programming,NULL
+Quel est le nom de l'architexture des drives d'UNIX AT&T system V ?,STREAMS,NULL
+Que signifie le trigramme BPF ?,Berkeley Packet Filter,NULL
+Nommer les intercepteurs IP d'UNIX,les packets filters,NULL
+Quel est le titre du livre de Frank Buschmann ?,Pattern-Oriented Software Architecture,NULL
+Dans quel espace s'exécutent les Streams ?,Kernel,NULL
+A quoi correspond le crosscuttings logiciel ?,Les préoccupations transversales,NULL
+Citer un exemple de crosscuttings logiciel ?,La sécurité,NULL
+Qu'est-ce qu'un Hook AOP ?,Un point d'extension,NULL
+Nommer un framework AOP Java,AspectJ,NULL
+Nommer un framework AOP Java Web,Spring,NULL
+Citer une application des filters servlets,La compression de données,NULL
+Un filter est-il un servlet ?,Oui,NULL
+Qu'est-ce qu'un bundle Symfony ?,Un composant,NULL
+A quel niveau de la Cloud Computing Stack se trouve les Frameworks WEB ?,Le runtime,NULL
+Quel est l'ancêtre de JPA ?,Hibernate,NULL
+En quelle année Node.js a-t-il été créé ?,2009,NULL
+En quelle année Struts a-t-il été créé ? Par qui ?, 2000 - Craig McClanahan,NULL
+Qui est Ryan Dahl ?,Le créateur de Node.js,NULL
+Qui est Craig MacClanahan ?,Le créateur de Struts,NULL
+Que signifient les trigrammes COM/DCOM ?,Component Object Model / Distributed Component Object Model de Microsoft,NULL
+Que signifie le trigramme REST ?,Representational State Transfer,NULL
+Quelle librairie JavaScript a pour sloggan "It's about the user interface baby !" ?,Stritaculus,NULL
+Qui est Gaving Kink ?,Le créateur d'hibernate,NULL
+Qui a créé Hibernate ?,Gavin King,NULL
