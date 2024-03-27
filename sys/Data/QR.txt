@@ -14,7 +14,7 @@ Que signifie IOC ?,Inversion of Control,NULL
 Les spécifications JEE désignent-elles une mise en oeuvre ?,non,NULL
 Quel est le nom de la librairie Unix qui gère l'API de la stack de communication TCP/IP ?,Les sockets,NULL
 Citer le numéro de la dernière version des Jakarta Servlet,5,NULL
-Selon Martin Fowler quelles sont les 3 perspectives d'un diagramme de classes UML ?,statique, dynamique, implémentation,NULL
+Selon Martin Fowler quelles sont les 3 perspectives d'un diagramme de classes UML ?,statique - dynamique - implémentation,NULL
 Nommer la distribution OpenJDK d'AWS,Corretto,NULL
 Quel est le nom de la méthode de la classe HttpServlet qui fournit le contexte courant du Servlet ?,getServletContext(),NULL
 Comment le Context du Servlet est-il fourni à partir de la version 3.x des Servlets ?,par injection de dépendance,NULL
